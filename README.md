@@ -40,10 +40,10 @@ Finally, we built a fully interactive interface using **Gradio** for easy and us
 ## 📸 Screenshots
 
 <div align="center">
+<img width="1877" height="855" alt="Screenshot 2025-07-28 001246" src="https://github.com/user-attachments/assets/a5bc4b28-6908-4d43-b7c6-5fea053422e6" />
 
-  <img src="https://github.com/user-attachments/assets/f94e58b6-f602-4dae-9a26-0e25cf8076f1" alt="Screenshot 1" width="500" style="margin: 10px;" />
-  <img src="https://github.com/user-attachments/assets/5196d2fb-306f-4b74-b35a-4bb160464a3d" alt="Screenshot 2" width="500" style="margin: 10px;" />
-  <img src="https://github.com/user-attachments/assets/89b7de26-3f8a-486b-9c79-ddb220157b61" alt="Screenshot 3" width="500" style="margin: 10px;" />
+<img width="1869" height="857" alt="Screenshot 2025-07-28 001343" src="https://github.com/user-attachments/assets/e76e4536-2745-4953-bd0d-dfaa95a73f89" />
+<img width="1893" height="702" alt="Screenshot 2025-07-28 001404" src="https://github.com/user-attachments/assets/953d01f2-bfa8-41b1-956b-6e9d39bc1ed1" />
 
 </div>
 
