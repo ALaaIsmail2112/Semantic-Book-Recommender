@@ -41,12 +41,12 @@ Finally, we built a fully interactive interface using **Gradio** for easy and us
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f94e58b6-f602-4dae-9a26-0e25cf8076f1" alt="Screenshot 1" width="400" style="margin: 10px;"  />
-<img src="https://github.com/user-attachments/assets/5196d2fb-306f-4b74-b35a-4bb160464a3d" alt="Screenshot 1" width="400" style="margin: 10px;"  />
-
-<img src="https://github.com/user-attachments/assets/89b7de26-3f8a-486b-9c79-ddb220157b61" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+  <img src="https://github.com/user-attachments/assets/f94e58b6-f602-4dae-9a26-0e25cf8076f1" alt="Screenshot 1" width="500" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/5196d2fb-306f-4b74-b35a-4bb160464a3d" alt="Screenshot 2" width="500" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/89b7de26-3f8a-486b-9c79-ddb220157b61" alt="Screenshot 3" width="500" style="margin: 10px;" />
 
 </div>
+
 
 
 🤝 Contribution
